@@ -1,0 +1,16 @@
+          F1 = Display this help.
+          F2 = Load a file.
+          F3 = Save a file as.
+          F4 = Remove a file.
+          F5 = Remove all files.
+          F6 = Display file list.
+          F7 = Print a file.
+          F8 = Insert special character.
+          F9 = Quit.
+ Control + C = Copy data.
+ Control + F = Search file(s) for text.
+ Control + N = Start with new file.
+ Control + S = Save a file.
+      Insert = Paste data.
+      Delete = Cut data.
+
